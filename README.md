@@ -1,11 +1,11 @@
 # python_game_projects
 a menue with 5 games that I create: 
-1. flappy_destroyer
-2. flapy_bird
-3.hang man
-4.snake game
-5. the_maze                      
-
-for play: 
-run "gamesMenue". 
-through this program you can pay all the games
+1. flappy_destroyer<br />
+2. flapy_bird<br />
+3.hang man<br />
+4.snake game<br />
+5. the_maze<br />                      
+<br />
+for play:<br /> 
+run "gamesMenue".<br /> 
+through this program you can pay all the games<br />
