@@ -5,3 +5,7 @@ a menue with 5 games that I create:
 3.hang man
 4.snake game
 5. the_maze                      
+
+for play: 
+run "gamesMenue". 
+through this program you can pay all the games
