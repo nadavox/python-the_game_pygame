@@ -8,6 +8,5 @@ a menu with 5 games that I create:
 <br />
 for play:<br />
 run "gamesMenu".<br />
-![game-menu](https://drive.google.com/file/d/1tH1gbDYXr_xwGY2MV4PSfuC-oqOPzTdc/view?usp=sharing)
-through this program you can pay all the games<br />
+![game_menu](https://user-images.githubusercontent.com/44653635/189143264-e8391e7d-7d69-48df-aaf9-afbc7f68b8a2.png)
 
