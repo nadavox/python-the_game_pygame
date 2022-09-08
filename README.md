@@ -8,6 +8,6 @@ a menu with 5 games that I create:
 <br />
 for play:<br />
 run "gamesMenu".<br />
-![game menu](https://www.google.com/imgres?imgurl=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fmelingoimages%2FImages%2F4315.jpg&imgrefurl=https%3A%2F%2Fwww.morfix.co.il%2Fapple&tbnid=UuCqR6u2PPBu4M&vet=12ahUKEwj7qovCqYX6AhV5wwIHHTmnALsQMygBegUIARDFAQ..i&docid=pMq94K20irs_JM&w=380&h=265&q=apple&ved=2ahUKEwj7qovCqYX6AhV5wwIHHTmnALsQMygBegUIARDFAQ)
+   <img alt="game menu" height="20" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fmelingoimages%2FImages%2F4315.jpg&amp;imgrefurl=https%3A%2F%2Fwww.morfix.co.il%2Fapple&amp;tbnid=UuCqR6u2PPBu4M&amp;vet=12ahUKEwj7qovCqYX6AhV5wwIHHTmnALsQMygBegUIARDFAQ..i&amp;docid=pMq94K20irs_JM&amp;w=380&amp;h=265&amp;q=apple&amp;ved=2ahUKEwj7qovCqYX6AhV5wwIHHTmnALsQMygBegUIARDFAQ" width="20"/>
 through this program you can pay all the games<br />
 
