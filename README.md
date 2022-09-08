@@ -8,6 +8,6 @@ a menu with 5 games that I create:
 <br />
 for play:<br />
 run "gamesMenu".<br />
-   <img alt="game menu" height="50" src="/Users/nadavox/Desktop/python photos/python photos/game_menu.png" width="60"/>
+![game menu](/Users/nadavox/Desktop/python photos/python photos/game_menu.png "game menu")
 through this program you can pay all the games<br />
 
